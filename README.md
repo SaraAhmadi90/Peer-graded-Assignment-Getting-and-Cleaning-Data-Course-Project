@@ -1,4 +1,4 @@
-Code Book and the description of the codes
+#Code Book and the description of the codes
 
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 Dataset is extracted under the folder called UCI HAR Dataset.
