@@ -1,3 +1,4 @@
+library(dplyr)
 #reading the feature names for x_train and a_test data
 features <- read.table("UCI HAR Dataset/features.txt", col.names = c("n","feature_names"))
 #reading the activity text file
