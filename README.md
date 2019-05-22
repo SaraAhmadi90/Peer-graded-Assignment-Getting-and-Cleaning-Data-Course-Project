@@ -1,3 +1,5 @@
+Code Book and the description of the codes
+
 # Peer-graded-Assignment-Getting-and-Cleaning-Data-Course-Project
 Dataset is extracted under the folder called UCI HAR Dataset.
 #reading the feature names for x_train and x_test data that are available in UCI HAR Dataset folder, i name the first column to n and feature colomns to feature_names 
